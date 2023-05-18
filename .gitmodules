@@ -1,0 +1,7 @@
+[submodule "mir/alg_ds"]
+	path = mir/alg_ds
+	url = https://github.com/mirazabal/alg_ds.git
+[submodule "mir/flexric"]
+	path = mir/flexric
+	url = https://gitlab.eurecom.fr/mosaic5g/flexric
+	branch = mir_dev
