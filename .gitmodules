@@ -4,4 +4,4 @@
 [submodule "mir/flexric"]
 	path = mir/flexric
 	url = https://gitlab.eurecom.fr/mosaic5g/flexric
-	branch = mir_dev
+	branch = remotes/origin/mir_dev
